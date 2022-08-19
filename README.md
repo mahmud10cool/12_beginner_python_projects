@@ -1,2 +1,4 @@
-# 12_beginner_python_projects
-freecodecamp 12 projects playlist
+# 12 Beginner Python Projects
+I am doing this to enhance my python skills
+Also my coding typing skills
+Also to learn more about git
