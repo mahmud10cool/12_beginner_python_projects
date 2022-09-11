@@ -7,5 +7,6 @@ for i in range(len(A)):
         A[j+1] = A[j]
         j = j - 1
     A[j + 1] = key
+    print(f'Iteration number {i}: {A}\n')
 
-print(A)
+print(f'Final solution: {A}')
