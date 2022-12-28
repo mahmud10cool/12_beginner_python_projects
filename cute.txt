@@ -1,0 +1,3 @@
+I believe that I am cute
+But I am not sure yet
+This project is to determine whether I am cute or not
