@@ -1,1 +1,3 @@
-# The first code of the book
+#!/usr/bin/env python3.11
+
+print('Hello world')
